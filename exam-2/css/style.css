@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body-img{
+    background-image: url();
+}
+.nav-2{
+ margin: 0px auto;
+}
+li{
+    margin: 15px;
+    font-size: 24px;
+}
+.body-img{
+    background-image: url(../img/Rectangle\ 31.png);
+    width: 100%;
+    height: 100vh ;
+}
